@@ -4,6 +4,7 @@ datePublished: Sat Dec 07 2024 22:15:49 GMT+0000 (Coordinated Universal Time)
 cuid: cm4eqhfes000209la2hei5ae8
 slug: sonas-app-showcase
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733608807324/f7a6f6e2-05de-42b1-ae51-761c787fc03c.jpeg
+tags: sona-app, school-of-new-africa, african-history-education, financial-literacy-for-youth, fuse-odg, african-culture-app, interactive-learning-app, african-heritage-education, money-management-for-young-people, educational-apps-for-africans, african-historians, cultural-storytelling-app, youth-empowerment-through-education
 
 ---
 
