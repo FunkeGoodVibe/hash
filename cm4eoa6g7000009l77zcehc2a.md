@@ -13,6 +13,6 @@ A story which I found funny was the story about the parable of the lost sheep. W
 
 Where the shepherd was overjoyed when he found his sheep, the developer was overjoyed when they fixed their bug.
 
-The except ends by saying that writing good code is good, but there is more joy when a sinner repents. Very interesting stories! 🐑
+The excerpt ends by saying that writing good code is good, but there is more joy when a sinner repents. Very interesting stories! 🐑
 
 Reference: [https://biblestories.dev/lost-sheep](https://biblestories.dev/lost-sheep)
