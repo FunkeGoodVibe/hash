@@ -17,121 +17,34 @@ The founders and hosts were musician FUSE ODG and Andrew Hackett. I was inspired
 
 ![](https://schoolofnewafrica.com/wp-content/uploads/2023/01/ananse-2.3e563d28b96cf3c1c3d3.png align="left")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733608832628/10305365-85bc-4eb8-864a-3054db1faf41.jpeg align="center")
-
-## Highlights of the App Showcase
-
-### Date and location of the event
-
-### Keynote speakers and notable guests
-
-### Summary of the agenda
-
-## Featured Apps
-
-### Criteria for selection
-
-### Categories of showcased apps
-
-### Education
-
-### Health and Wellness
-
-### Productivity
-
-### Entertainment
-
-### Others
-
-## In-Depth Look at Selected Apps
-
-### App 1: \[Name\]
-
-### Developer Background
-
-### App Features
-
-### Impact and Potential
-
-### App 2: \[Name\]
-
-### Developer Background
-
-### App Features
-
-### Impact and Potential
-
-### App 3: \[Name\]
-
-### Developer Background
-
-### App Features
-
-### Impact and Potential
-
-## Opportunities for Developers
-
-### Networking with industry leaders
-
-### Feedback and mentorship sessions
-
-### Funding and partnership opportunities
-
-## Audience Engagement
-
-### Interactive sessions with app developers
-
-### Audience voting and awards
-
-### Testimonials and success stories
-
-## Impact of the Showcase
-
-### Promotion of innovation and creativity
-
-### Support for emerging developers
-
-### Long-term benefits for the tech community
-
-## Conclusion
-
-### Summary of key takeaways
-
-### Future prospects for SONA's App Showcase
-
-### Call to action for developers and tech enthusiasts
-
 ## Key Highlights of the Showcase
 
-### Noteworthy apps and their features
+There was a live demo of the SONA app. The *main character* in the SONA app is a boy called “Ananse”. He is the cartoon character who guides the user on the journey of discovery of African History, Culture, Language and also money management. The app starts with a film clip where Ananse teaches the user on topics such as LOVE, KNOWLEDGE and POWER. The user then is presented with a quiz to test their knowledge before launching the app.
 
-### App #1 – Brief description and functionality
+I really like the interactivity, storytelling and gameplay of the SONA app. I think this is the first time I’ve seen something like this, specifically targeting young African’s to learn about African history and money.
 
-### App #2 – Brief description and functionality
+Core Themes:
 
-### App #3 – Brief description and functionality
+* ### `LOVE - Use the SONA daily affirmation tracker to build your confidence over time and take on the world.`
+    
+* ### `KNOWLEDGE - Discover hidden history, culture and language and transform deserts through missions.`
+    
+* ### `POWER - Collect money & resources in-app and track spending, using your SONA cardApp #1 – Brief description and functionality.`
+    
 
-### Innovative technologies presented
+### Technical (?)
 
-### Interaction with app developers and their insights
+I was intrigued to learn more about the technical aspects of the SONA app. I was later informed that the app was implemented by a development team based in Ghana. I wasn’t able to ask *all* of the technical questions such as “how were the storylines for Ananse’s journey developed” or “what challenges did the development team in Ghana face, when implementing the app” etc. In hindsight, it’s understandable that these questions were not covered because I think this was an app showcase for potential investors and end-users!
 
-## Experience and Engagement
-
-### Hands-on experience with select apps
-
-### Feedback from attendees and participants
-
-### Engaging activities and presentations
-
-## Impact and Future of the Showcase
-
-### Influence on the app development community
-
-### Future trends and potential developments showcased
-
-### Personal reflections on the implications for the tech industry
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733608832628/10305365-85bc-4eb8-864a-3054db1faf41.jpeg align="center")
 
 ## Conclusion
+
+I personally found it very inspiring that founders Fuse ODG was able to capitalise on his *own* experience of a young black person moving from Ghana to the UK to inspire the SONA App. He proactively did not accept neglecting his heritage as an African as he
+
+not and Andrew Hackett were able to use
+
+implement a solution to a problem that was authentic, very personal and has a desire to have meaningful long term impact. I really like that the app was designed to be fun, and used stories to draw the user to learn more in a very simple way.
 
 ### Recap of the key findings and experiences
 
