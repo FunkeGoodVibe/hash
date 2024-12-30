@@ -23,7 +23,7 @@ The founders and hosts were musician FUSE ODG and Andrew Hackett. I was inspired
 
 There was a live demo of the SONA app. The *main character* in the SONA app is a boy called “Ananse”. He is the cartoon character who guides the user on the journey of discovery of African History, Culture, Language and also money management. The app starts with a film clip where Ananse teaches the user on topics such as LOVE, KNOWLEDGE and POWER. The user then is presented with a quiz to test their knowledge before launching the app.
 
-I really like the interactivity, storytelling and gameplay of the SONA app. I think this is the first time I’ve seen something like this, specifically targeting young African’s to learn about African history and money.
+I really like the interactivity, storytelling and gameplay of the SONA app. I think this is the first time I’ve seen something like this, specifically targeting young African’s to learn about African history and money. I also like that the app gives young people a *safe* platform to explore African history at the same time as learning how to manage money.
 
 Core Themes:
 
@@ -42,16 +42,6 @@ I was intrigued to learn more about the technical aspects of the SONA app. I was
 
 ## Conclusion
 
-I personally found it very inspiring that founders Fuse ODG was able to capitalise on his *own* experience of a young black person moving from Ghana to the UK to inspire the SONA App. He proactively did not accept neglecting his heritage as an African as he
-
-not and Andrew Hackett were able to use
-
-implement a solution to a problem that was authentic, very personal and has a desire to have meaningful long term impact. I really like that the app was designed to be fun, and used stories to draw the user to learn more in a very simple way.
-
-### Recap of the key findings and experiences
-
-### Final thoughts on the significance of SONA's App Showcase
-
-### Encouragement for readers to explore similar showcases or events
+I found it incredibly inspiring that Fuse ODG, one of the founders, drew from his personal experience as a young black individual moving from Ghana to the UK to create the SONA App. He made a conscious effort to embrace his African heritage despite the challenges of relocation. I appreciate that the app offers a safe platform for young people to explore African heritage. Witnessing a live demonstration of a solution that can positively transform young people's self-perception and boost their confidence, particularly those of black heritage, was truly impressive. I also love that the app is designed to be engaging and fun. Overall, I would rate the SONA App showcase a perfect 10/10!
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733608702459/9255464b-1396-4b84-b063-beb16f0561e0.jpeg align="center")
