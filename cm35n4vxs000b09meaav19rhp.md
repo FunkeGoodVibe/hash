@@ -1,5 +1,5 @@
 ---
-title: "97 things every data engineer should know - communities not code (26)"
+title: "Communities, not code | 97 things | DE (26)"
 seoTitle: "97-things"
 datePublished: Wed Nov 06 2024 08:52:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm35n4vxs000b09meaav19rhp
@@ -9,7 +9,7 @@ tags: data-engineering, 97-things, 97-things-every-data-engineer-should-know
 
 ---
 
-Summary of 97 things every X should know - item 26
+Summary of 97 things every Data Engineer should know - item 26
 
 ## Introduction
 
