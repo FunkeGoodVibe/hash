@@ -1,5 +1,5 @@
 ---
-title: "My Tour of the SONA's App Showcase"
+title: "SONA's App Showcase"
 datePublished: Sat Dec 07 2024 22:15:49 GMT+0000 (Coordinated Universal Time)
 cuid: cm4eqhfes000209la2hei5ae8
 slug: sonas-app-showcase
