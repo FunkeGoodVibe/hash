@@ -1,5 +1,6 @@
 ---
 title: "School of New Africa (SONA) App Showcase"
+seoDescription: "Explore the innovative SONA app, designed by Fuse ODG and Andrew Hackett, to educate young Africans about their rich history and financial literacy."
 datePublished: Sat Dec 07 2024 22:15:49 GMT+0000 (Coordinated Universal Time)
 cuid: cm4eqhfes000209la2hei5ae8
 slug: sonas-app-showcase
