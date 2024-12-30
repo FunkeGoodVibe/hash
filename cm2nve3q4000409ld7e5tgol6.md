@@ -4,7 +4,7 @@ datePublished: Thu Oct 24 2024 22:23:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm2nve3q4000409ld7e5tgol6
 slug: rust-x-python-conference
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733608223148/b72e037e-526c-4d4c-b9fc-77bfc49d4157.webp
-tags: python, rust
+tags: python, rust, data-validation, python-x-rust-conference-2024
 
 ---
 
@@ -26,7 +26,7 @@ Lastly, Samuel Colvin spoke about Pydantic and Rust. The title was “Why and ho
 
 He spoke about the advantages of rust such as performance, reuse of rust libraries, explicit error handling, the notion of rust being easier to maintain because of the compliers handling of errors and more. The disadvantages include it’s apparently slower to develop, and as it’s a less popular language there is less support from a community unlike python. Also, developers have to distribute binaries or leave users to compile it.
 
-Possibly because of the explicit type handling? and requires the developer to consciously trace their errors instead of dumping all errors in python and waiting for the error message - i.e. requires more attention on the developers end?).
+Possibly because of the explicit type handling? and requires the developer to consciously trace their errors instead of dumping all errors in python and waiting for the error message - i.e. requires more attention on the developers end?.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1729807972089/3bf668e3-45e8-4f59-ac68-d6e171215251.png align="center")
 
@@ -36,6 +36,6 @@ The main advantage of Rust for me is the performance improvements. For instance 
 
 Attending the Python x Rust conference was an enlightening experience that opened my eyes to the potential of combining these two powerful programming languages. While Python's ease of use and extensive library support make it a favorite among developers, Rust offers significant performance improvements and robust error handling, which are crucial for professional development. The talks by David Seddon, David Hewitt, and Samuel Colvin highlighted the synergy between Python and Rust, showcasing how Rust can enhance Python applications, particularly in terms of speed and reliability. The integration of Rust in tools like Pydantic demonstrates the practical benefits of this collaboration, offering substantial performance gains. As I continue to explore Rust, I am excited about the possibilities it brings to the table, especially in optimizing Python applications for real-world challenges. This conference has inspired me to delve deeper into Rust, embracing its strengths to complement my Python skills.
 
-Starting the day knowing nothing about Rust, the real question is `red` or `blue` 👾
+Starting the day knowing nothing about Rust, the real question is `red` or `blue` 👾.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733608071656/3c4396f2-76b2-4b8a-8e7c-3c080d1981c0.png align="center")
