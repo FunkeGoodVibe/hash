@@ -1,5 +1,5 @@
 ---
-title: "Live Lingua"
+title: "100 Days of Learning Yoruba"
 datePublished: Sat Dec 07 2024 11:45:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm4e3ytfh000209js9f539jnf
 slug: live-lingua
@@ -8,80 +8,94 @@ tags: nigeria, yoruba
 
 ---
 
-[https://www.livelingua.com/fsi/FSI%20-%20Yoruba%20Basic%20Course%20-%20Student%20Text.pdf](https://www.livelingua.com/fsi/FSI%20-%20Yoruba%20Basic%20Course%20-%20Student%20Text.pdf)
+As a person of African heritage - and born and raised in the UK as an adult I started to think… wouldn’t it be great to learn my parents language? I never got a chance to learn as a child. However, with apps such an ‘Ling’ that now include the Yoruba language providing tutorials, plus freely available articles online it is now more accessible for individuals to learn a wider range of languages, online 🎉.
 
-[https://www.livelingua.com/course/fsi/yoruba\_basic\_course](https://www.livelingua.com/course/fsi/yoruba_basic_course)
+I personally think it will be good to learn because in an age where there are so many “languages” to learn from CoffeeScript to X.. I hope it will be fun to learn which is my motivation when learning new things.
 
 ## Introduction
 
-### Overview of Live Lingua
+### Overview of the Yoruba language
 
-### Importance of language learning platforms
+### Importance and relevance of learning Yoruba
 
-## History of Live Lingua
+### Objectives and goals for the 100-day journey
 
-### Founding and development
+## Understanding the Basics
 
-### Key milestones and growth over the years
+### Alphabet and pronunciation
 
-## Features of Live Lingua
+### Common phrases and greetings
 
-### Language offerings
+### Numbers and counting
 
-### Types of courses and services
+## Day-to-Day Learning Structure
 
-### Interactive tools and resources
+### Setting a daily learning routine
 
-## Learning Methodology
+### Utilizing resources (apps, books, websites)
 
-### One-on-one tutoring approach
+### Incorporating listening and speaking exercises
 
-### Curriculum and materials
+## Vocabulary Building
 
-### Technological integration in learning
+### Focusing on high-frequency words
 
-## Advantages of Using Live Lingua
+### Topical vocabulary lists (family, food, travel)
 
-### Personalized learning experience
+### Techniques for memorization and recall
 
-### Flexibility and convenience
+## Grammar Essentials
 
-### Credentialed tutors and experts
+### Understanding Yoruba sentence structure
 
-## User Experience
+### Verb conjugations and usage
 
-### Registration and onboarding process
+### Nouns, pronouns, and adjective agreement
 
-### Course navigation and user interface
+## Immersive Learning Strategies
 
-### Feedback from users and testimonials
+### Engaging with Yoruba media (music, films, news)
 
-## Comparison to Other Language Platforms
+### Joining language exchange communities
 
-### Unique selling points of Live Lingua
+### Attending Yoruba cultural events
 
-### Pros and cons compared to competitors
+## Milestones and Progress Checks
 
-## Success Stories and Case Studies
+### Setting short-term and long-term learning goals
 
-### Notable achievements
+### Measuring progress and adjusting strategies
 
-### Personal anecdotes from users
+### Celebrating achievements along the way
 
-## Challenges and Criticisms
+## Overcoming Challenges
 
-### Areas for improvement
+### Addressing common difficulties in learning Yoruba
 
-### Common user complaints
+### Staying motivated and disciplined
 
-## Future Prospects and Developments
+### Seeking additional support and guidance
 
-### Plans for expansion
+## Cultural Insights and Applications
 
-### Upcoming features and innovations
+### Understanding Yoruba customs and traditions
+
+### Integrating cultural knowledge in language practice
+
+### Exploring Yoruba art, music, and history
+
+## Reflection and Future Plans
+
+### Reflecting on the 100-day learning experience
+
+### Planning for continued language advancement
+
+### Exploring opportunities for practical use of Yoruba skills
 
 ## Conclusion
 
-### Recap of Live Lingua’s contributions
+### Recap of key takeaways from the learning journey
 
-### Final thoughts on its impact on language learning
+### Encouragement for ongoing language development
+
+### Final thoughts on the significance of language learning
