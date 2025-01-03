@@ -1,5 +1,5 @@
 ---
-title: "Develop Communities, Not Just Code | Data Engineer Manager should know"
+title: "Day 1: Develop Communities, Not Just Code | 97 Things Every Data Engineer Manager should know"
 seoTitle: "97-things"
 datePublished: Wed Nov 06 2024 08:52:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm35n4vxs000b09meaav19rhp
@@ -9,4 +9,4 @@ tags: data-engineering, 97-things, 97-things-every-data-engineer-should-know
 
 ---
 
-### #97 Things Every Data Engineering Manager Should Know | 26 - Develop Communities, Not Just Code
+### #97 Things Every Data Engineering Manager Should Know | 26 - Develop Communities, Not Just Code.
