@@ -14,4 +14,4 @@ The significance of learning over 100 days is that it is a way to achieve goals 
 
 Although I’ve titled this “100 days of learning Yoruba” - I’m hoping to use the hashnode platform to track my progress and probably to keep me accountable 😂.
 
-So… let’s “jeka lo”!
+So… let’s “jeka lo”! 🇳🇬
