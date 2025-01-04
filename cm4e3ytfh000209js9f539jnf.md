@@ -2,12 +2,16 @@
 title: "100 Days of Learning Yoruba"
 datePublished: Sat Dec 07 2024 11:45:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm4e3ytfh000209js9f539jnf
-slug: live-lingua
+slug: 100-days-of-yoruba
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734210940859/96605072-0907-4608-8eff-68b59e7db400.jpeg
 tags: nigeria, yoruba
 
 ---
 
-As a person of African heritage - and born and raised in the UK as an adult I started to think… wouldn’t it be great to learn my parents language? I never got a chance to learn as a child. However, with apps such an ‘Ling’ that now include the Yoruba language providing tutorials, plus freely available articles online it is now more accessible for individuals to learn a wider range of languages, online 🎉.
+As someone of African heritage who was born and raised in the UK, I recently thought - wouldn’t it be “fun” to learn my parents' language for the first time. I missed the opportunity to learn it as a child. However, with apps like 'Ling' offering Yoruba language tutorials and websites such as Live Lingua offering a fully virtual Yoruba class, learning the language is now very accessible :).
 
-I personally think it will be good to learn because in an age where there are so many “languages” to learn from CoffeeScript to X.. I hope it will be fun to learn which is my motivation when learning new things.
+The significance of learning over 100 days is that it is a way to achieve goals by creating new habits through perseverance and consistency. My goal by the end of the challenge is to be comfortable holding basic conversations as well as writing confidently in Yoruba. The main tools that I see myself using are Ling, and Live Lingua. I also hope that there will be a pool of Nigerians that will be happy to serve as my language exchange partner to help quicken the learning journey!
+
+Although I’ve titled this “100 days of learning Yoruba” - I’m hoping to use the hashnode platform to track my progress and probably to keep me accountable 😂.
+
+So… let’s “jeka lo”!
