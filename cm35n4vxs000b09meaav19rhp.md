@@ -1,5 +1,5 @@
 ---
-title: "Day 1: 97 Things Every Data Engineer Manager should know"
+title: "97 Things Every Data Engineer Manager should know"
 seoTitle: "97-things"
 datePublished: Wed Nov 06 2024 08:52:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm35n4vxs000b09meaav19rhp
