@@ -3,6 +3,8 @@ title: "Building Multiple Streams of Income | @CandidlyVivian"
 datePublished: Sun Jan 05 2025 21:52:08 GMT+0000 (Coordinated Universal Time)
 cuid: cm5k5eoo3000009jm8iuye6vn
 slug: building-multiple-streams-of-income-candidlyvivian
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736114327028/8e5aac08-532a-4cd6-b5cf-e67c6430f3db.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736114309561/0c443763-1c44-47d0-88b5-abaa3b28f627.jpeg
 tags: data-scientist, data-science, databases, money, finance, investments, financial-freedom, financial-planning, wealth-building, financialfreedom, financialanalysis, side-hustles, dividends
 
 ---
