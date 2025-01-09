@@ -4,7 +4,6 @@ datePublished: Sat Dec 07 2024 11:45:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm4e3ytfh000209js9f539jnf
 slug: 100-days-of-yoruba
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734210940859/96605072-0907-4608-8eff-68b59e7db400.jpeg
-tags: nigeria, yoruba
 
 ---
 
