@@ -49,6 +49,6 @@ Final Quote:
 
 > You are the average of the 5 people we spend the most time with.
 
-It was really insightful to hear her story gaining 6 figures by 28 years old. Also, what inspired me more was her tenacity and ability to strive towards her goals. The tips are ver clear, so anyone with the drive as Vivian can execute this too which is awesome.
+It was really insightful to hear her story gaining 6 figures by 28 years old. Also, what inspired me more was her tenacity and ability to strive towards her goals. The tips are very clear, so anyone with the drive as Vivian can execute this too which is awesome.
 
 Feel free to follow her channel: [https://www.youtube.com/@candidlyvivian](https://www.youtube.com/@candidlyvivian)
