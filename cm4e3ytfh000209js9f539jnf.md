@@ -1,6 +1,6 @@
 ---
 title: "365 Days of Learning Yoruba"
-datePublished: Sun Sep 01 2024 23:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Oct 06 2024 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4e3ytfh000209js9f539jnf
 slug: 365-days-of-learning-yoruba
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734210940859/96605072-0907-4608-8eff-68b59e7db400.jpeg
