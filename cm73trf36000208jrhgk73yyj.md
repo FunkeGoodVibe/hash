@@ -13,3 +13,5 @@ I’ve recently started to read the book “Impact Players” by Liz Wiseman. Th
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739480212688/00500355-623e-46e9-b259-98135d8cb5b1.jpeg align="center")
 
 TBA
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739480579749/23abe5fe-0159-465b-a2d8-525799c68f83.gif align="center")
