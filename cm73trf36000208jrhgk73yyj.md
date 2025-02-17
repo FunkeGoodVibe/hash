@@ -4,7 +4,6 @@ datePublished: Thu Feb 13 2025 21:01:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm73trf36000208jrhgk73yyj
 slug: impact-players-liz-wiseman
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739480710600/7bda8535-7450-4cf6-8179-b01d32410379.jpeg
-tags: books, reading, leadership, leadership-development, leadership-skills, wiseman
 
 ---
 
