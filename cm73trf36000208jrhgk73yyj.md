@@ -7,10 +7,12 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739480710600/7bda853
 
 ---
 
-I’ve recently started to read the book “Impact Players” by Liz Wiseman. The book summarises the difference between Individual Contributors, versus the impact players.
+I’ve recently learnt about the book “Impact Players” by Liz Wiseman after attending the first week of the EP stewardship course. The book summarises the difference between Ordinary Contributors versus the Impact Players. She does this by analysing 5 types of problems and compares how an ordinary contributor would respond versus the impact player.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739480212688/00500355-623e-46e9-b259-98135d8cb5b1.jpeg align="center")
 
-TBA
+My main takeaways after reading the book are:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739480579749/23abe5fe-0159-465b-a2d8-525799c68f83.gif align="center")
+
+Conclusion:
