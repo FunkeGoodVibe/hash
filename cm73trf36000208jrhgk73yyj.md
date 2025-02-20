@@ -13,6 +13,17 @@ I’ve recently learnt about the book “Impact Players” by Liz Wiseman after 
 
 My main takeaways after reading the book are:
 
+1. * point 1
+        
+2. * point 2
+        
+3. * point 3
+        
+4. * point 4
+        
+5. * point 5
+        
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739480579749/23abe5fe-0159-465b-a2d8-525799c68f83.gif align="center")
 
 Conclusion:
