@@ -11,6 +11,8 @@ I’ve recently learnt about the book “Impact Players” by Liz Wiseman after 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739480212688/00500355-623e-46e9-b259-98135d8cb5b1.jpeg align="center")
 
+Liz mentioned that impact players aim to make **radical** difference, not just marginal difference when faced with situations that they cannot control. Ordinary contributors will not be able to cope when faced with these challenges, whereas impact players don’t see problems through this lens. When dealing with messy problems, impact players **address the *need* of the organisation** and venture beyond their job title and focuses on the real job that needs to be done.
+
 My main takeaways after reading the book are:
 
 1. * point 1
