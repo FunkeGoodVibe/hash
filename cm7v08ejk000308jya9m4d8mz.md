@@ -12,7 +12,7 @@ tags: learning, languages, nigeria, language-learning, nigerianintech, yoruba
 
 **Q1 (Jan - March)**
 
-My progress in learning the Nigerian language Yoruba, in all honesty has been around 1/10. I have been making progress with a few words, so I can tell you the difference between Omobirin and Omokunrin; I can tell you lori meji mẹta (one, two, three) as I have been using the app Ling, a thai based language learning app to support me on my journey.
+My initial progress in learning Yoruba, a Nigerian language, has been modest, around 1/10. I've managed to learn a few words, such as distinguishing between "Omobirin" and "Omokunrin," and counting "lori meji mẹta" (one, two, three). I've been using Ling, a Thai-based language learning app, to aid my journey.
 
 The progress I will say has been slow mainly because I am able to learn a few words, but possibly the slowness is due to the fact that I am using an app solely to learn. I do not for instance currently watch Nigerian films with Yoruba subtitles; and I am yet to have discussions with native Yoruba people.
 
